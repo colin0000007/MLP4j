@@ -1,6 +1,6 @@
 # MLP4j
 使用直接参照源码中的MinistExample：
-'''
+```
 /**
  * 手写识别体的例子测试
  * @author outsider
@@ -61,4 +61,4 @@ public class MinistExample {
 		}
 	}
 }
-'''
+```
