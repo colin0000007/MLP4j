@@ -1,17 +1,6 @@
 # MLP4j
 使用直接参照源码中的MinistExample：
-package com.outsider.model;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.Iterator;
-import java.util.stream.Stream;
-
-import com.outsider.model.activationFunction.ActivationFunction;
-import com.outsider.model.activationFunction.SoftMax;
-import com.outsider.model.layer.Dense;
-import com.outsider.model.layer.Input;
+'''
 /**
  * 手写识别体的例子测试
  * @author outsider
@@ -72,3 +61,4 @@ public class MinistExample {
 		}
 	}
 }
+'''
